@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a MOOC course "Fundamentals of Programming"
+- 👯 I’m looking to collaborate on a project related to HCI and Computer Vision
+- 💬 Ask me about programming in Python, Java, and C++
+- 📫 How to reach me: zhasdauren.duisebekov@sdu.edu.kz
+- 😄 Pronouns: He/his
